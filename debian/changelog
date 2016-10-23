@@ -1,0 +1,8 @@
+brotli (1.0-0ubuntu1ppa1) UNRELEASED; urgency=medium
+
+  [ Trevor Joynson (trevorj) ]
+  * Initial debianisation
+
+  [ Trevor Joynson (Debian) ]
+
+ -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Mon, 24 Oct 2016 02:29:23 -0700
