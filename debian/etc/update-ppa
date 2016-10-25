@@ -2,7 +2,7 @@
 set -e
 set -xv
 
-: ${PPA:=disqus/nginx}
+: ${PPA:=ppa:disqus/nginx}
 
 git checkout master
 
