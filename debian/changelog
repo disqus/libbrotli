@@ -1,12 +1,18 @@
-brotli (1.0-0+1ubuntu1ppa2+3snapshot~2.gbpffb066) UNRELEASED; urgency=medium
+brotli (1.0-0+1ubuntu1ppa3+3snapshot~3.gbp0bff4a) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @ffb0668bdf200b29578134e20ff3354b0cdfbf66 **
+  ** SNAPSHOT build @0bff4a4a757694b9e9cd50ad1cbba573d7b75aee **
 
   [ Trevor Joynson (trevorj) ]
   * Fix script
   * Update script
   * Script
   * Update
+
+  [ Trevor Joynson (Debian) ]
+
+  [ Trevor Joynson (trevorj) ]
+  * Update
+  * Lol
 
   [ Trevor Joynson (Debian) ]
 
