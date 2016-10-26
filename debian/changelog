@@ -1,10 +1,23 @@
-brotli (1.0-0ubuntu1ppa2) UNRELEASED; urgency=medium
+brotli (1.0-0+1ubuntu1ppa2+3snapshot~2.gbpffb066) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @ffb0668bdf200b29578134e20ff3354b0cdfbf66 **
+
+  [ Trevor Joynson (trevorj) ]
+  * Fix script
+  * Update script
+  * Script
+  * Update
+
+  [ Trevor Joynson (Debian) ]
+
+ -- Trevor Joynson (trevorj) <github@skywww.net>  Tue, 25 Oct 2016 17:17:16 -0700
+
+brotli (1.0-0ubuntu1ppa2) unstable; urgency=medium
 
   [ Trevor Joynson (trevorj) ]
   * Initial debianisation
-  * mgmt script
-  * gbp
 
   [ Trevor Joynson (Debian) ]
 
  -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Mon, 24 Oct 2016 02:45:17 -0700
+
