@@ -1,4 +1,4 @@
-brotli (1.0-0+1ubuntu1ppa3+4snapshot~3.gbp0bff4a) UNRELEASED; urgency=medium
+brotli (1.0-0+1ubuntu1ppa3+4snapshot~3.gbp0bff4a~precise1) precise; urgency=medium
 
   ** SNAPSHOT build @0bff4a4a757694b9e9cd50ad1cbba573d7b75aee **
 
@@ -15,8 +15,10 @@ brotli (1.0-0+1ubuntu1ppa3+4snapshot~3.gbp0bff4a) UNRELEASED; urgency=medium
   * Lol
 
   [ Trevor Joynson (Debian) ]
+  * Rebuild for precise
+  * Changed build-dependencies to packages available in precise
 
- -- Trevor Joynson (trevorj) <github@skywww.net>  Tue, 25 Oct 2016 17:17:16 -0700
+ -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Tue, 25 Oct 2016 20:05:49 -0700
 
 brotli (1.0-0ubuntu1ppa2) unstable; urgency=medium
 
