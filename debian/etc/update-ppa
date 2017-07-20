@@ -41,6 +41,6 @@ for dist in $dists; do
       --git-builder='debuild --preserve-envvar=CCACHE_DIR --prepend-path=/usr/lib/ccache -i -I' \
       -S -sa
 
-    dput "$PPA" "../build-area/${pkg}_${version}_source.changes"
+    dput "$PPA" "../build-area/${pkg}_${version}_source.changes" || :
 done
 
