@@ -1,4 +1,4 @@
-brotli (0.5.2+1+ppa1+snapshot~9.gbp945f67) UNRELEASED; urgency=medium
+brotli (0.5.2+ppa1+snapshot~9.gbp945f67) unstable; urgency=medium
 
   ** SNAPSHOT build @945f67d945a61056c5a86094f2022a87cd4d5973 **
 
