@@ -22,6 +22,7 @@ build-indep: build
 build: 
 	# On precise, this is not created automagically.
 	mkdir -pv $(CURDIR)/m4
+	
 	dh_testdir
 	dh_prep
 	dh_autoreconf
