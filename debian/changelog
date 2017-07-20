@@ -1,3 +1,18 @@
+brotli (0.5.2+ppa1+snapshot~10.gbpb9e785) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @b9e785e3a597503a96251600c26d6ac101e4d8cd **
+
+  [ Trevor Joynson (trevorj) ]
+  * Update
+  * Up
+  * Bump
+  * Bump
+  * Bump
+
+  [ Trevor Joynson (Debian) ]
+
+ -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Wed, 19 Jul 2017 22:00:25 -0700
+
 brotli (0.5.2+ppa1+snapshot~9.gbp945f67) unstable; urgency=medium
 
   ** SNAPSHOT build @945f67d945a61056c5a86094f2022a87cd4d5973 **
