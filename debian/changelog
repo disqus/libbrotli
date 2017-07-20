@@ -1,4 +1,4 @@
-brotli (0.5.2+ppa1~snapshot~10.gbpb9e785) UNRELEASED; urgency=medium
+brotli (0.5.2-1+ppa1+snapshot~10.gbpb9e785) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @b9e785e3a597503a96251600c26d6ac101e4d8cd **
 
@@ -13,7 +13,7 @@ brotli (0.5.2+ppa1~snapshot~10.gbpb9e785) UNRELEASED; urgency=medium
 
  -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Wed, 19 Jul 2017 22:00:25 -0700
 
-brotli (0.5.2+ppa1~snapshot~9.gbp945f67) unstable; urgency=medium
+brotli (0.5.2-1+ppa1+snapshot~9.gbp945f67) unstable; urgency=medium
 
   ** SNAPSHOT build @945f67d945a61056c5a86094f2022a87cd4d5973 **
 
@@ -49,7 +49,7 @@ brotli (0.5.2+ppa1~snapshot~9.gbp945f67) unstable; urgency=medium
 
  -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Wed, 19 Jul 2017 21:58:27 -0700
 
-brotli (0.5.2+ppa3~snapshot~4.gbp571147) unstable; urgency=medium
+brotli (0.5.2-0+ppa3+snapshot~4.gbp571147) unstable; urgency=medium
 
   ** SNAPSHOT build @571147bf07e71a4b7dfe0db83ccfdd517ca1241d **
 
@@ -77,11 +77,11 @@ brotli (0.5.2+ppa3~snapshot~4.gbp571147) unstable; urgency=medium
 
  -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Wed, 19 Jul 2017 19:57:07 -0700
 
-brotli (0.5.2+ppa2) UNRELEASED; urgency=medium
+brotli (0.5.2-0+ppa2) UNRELEASED; urgency=medium
 
  -- Trevor Joynson (trevorj) <github@skywww.net>  Tue, 25 Oct 2016 17:17:16 -0700
 
-brotli (0.5.2+ppa2) unstable; urgency=medium
+brotli (0.5.2-0+ppa2) unstable; urgency=medium
 
   [ Trevor Joynson (trevorj) ]
   * Initial debianisation
