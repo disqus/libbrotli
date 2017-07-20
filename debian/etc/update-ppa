@@ -146,6 +146,7 @@ do_dist() {
       --git-builder='debuild --preserve-envvar=CCACHE_DIR --prepend-path=/usr/lib/ccache -i -I' \
       -S -sa
 
+<<<<<<< HEAD
     dput "$PPA" "../build-area/${pkg}_${version}_source.changes" || return 1
 
     echo "-- Tagging"
@@ -155,6 +156,9 @@ do_dist() {
 
 for dist in "${dists[@]}"; do
     do_dist "$dist" || :
+=======
+    dput --force "$PPA" "../build-area/${pkg}_${version}_source.changes" || :
+>>>>>>> c6f2a70... Bump
 done
 
 echo "DONE"
