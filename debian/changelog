@@ -1,6 +1,6 @@
-brotli (1.0-0+1ubuntu1ppa3+4snapshot~3.gbp0bff4a) UNRELEASED; urgency=medium
+brotli (1.0-0+1ubuntu1ppa3+4snapshot~4.gbp571147) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @0bff4a4a757694b9e9cd50ad1cbba573d7b75aee **
+  ** SNAPSHOT build @571147bf07e71a4b7dfe0db83ccfdd517ca1241d **
 
   [ Trevor Joynson (trevorj) ]
   * Fix script
@@ -16,7 +16,15 @@ brotli (1.0-0+1ubuntu1ppa3+4snapshot~3.gbp0bff4a) UNRELEASED; urgency=medium
 
   [ Trevor Joynson (Debian) ]
 
- -- Trevor Joynson (trevorj) <github@skywww.net>  Tue, 25 Oct 2016 17:17:16 -0700
+  [ Trevor Joynson (trevorj) ]
+  * Bump
+  * Bump
+  * Update distros
+  * Allow fail
+
+  [ Trevor Joynson (Debian) ]
+
+ -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Wed, 19 Jul 2017 19:57:07 -0700
 
 brotli (1.0-0ubuntu1ppa2) unstable; urgency=medium
 
