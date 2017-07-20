@@ -1,4 +1,4 @@
-brotli (0.5.2-1+ppa1+snapshot~10.gbpb9e785) UNRELEASED; urgency=medium
+brotli (0.5.2-1+ppa1+snapshot~10.gbpb9e785~yakkety0) yakkety; urgency=medium
 
   ** SNAPSHOT build @b9e785e3a597503a96251600c26d6ac101e4d8cd **
 
@@ -10,8 +10,10 @@ brotli (0.5.2-1+ppa1+snapshot~10.gbpb9e785) UNRELEASED; urgency=medium
   * Bump
 
   [ Trevor Joynson (Debian) ]
+  * Rebuild for yakkety
+  * Changed build-dependencies to packages available in yakkety
 
- -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Wed, 19 Jul 2017 22:00:25 -0700
+ -- Trevor Joynson (Debian) <debian@trevor.joynson.io>  Wed, 19 Jul 2017 22:06:17 -0700
 
 brotli (0.5.2-1+ppa1+snapshot~9.gbp945f67) unstable; urgency=medium
 
